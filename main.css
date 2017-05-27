@@ -6,6 +6,6 @@ body {
 
 }
 
-tag_line {
-  color: grey; 
+.tag_line {
+  color: grey;
 }
